@@ -1,5 +1,6 @@
 # graduationProject
-### 音乐小程序推荐
+### 音乐小程序推荐系统
+[csdn](https://blog.csdn.net/z17772002134/article/details/103996387)
 ![image](https://github.com/javadoer/resource/blob/master/%E6%88%91%E7%9A%84.png)
 ![image](https://github.com/javadoer/resource/blob/master/%E7%99%BB%E5%BD%95.png)
 ![image](https://github.com/javadoer/resource/blob/master/%E9%A6%96%E9%A1%B5.png)
